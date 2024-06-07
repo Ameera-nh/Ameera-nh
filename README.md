@@ -2,7 +2,7 @@
 
 ## About me 
 
-I've recently started my coding journey and I'm currenrly participating in Founders and Coders' software foundation bootcamp. I'll be working on many projects that will develop my coding skills and hopefully gain the qualifications to become a software developer. 
+I've recently started my coding journey and I'm currenrly participating in Founders and Coders' software foundation bootcamp. I'll be working on many projects that will develop my coding skills and hopefully gain the qualifications to switch careers into tech. 
 
 ## Languages I'm learning 
 
